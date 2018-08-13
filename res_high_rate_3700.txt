@@ -1,0 +1,176 @@
+sysbench 1.0.15 (using bundled LuaJIT 2.1.0-beta2)
+
+Running the test with following options:
+Number of threads: 500
+Target transaction rate: 3700/sec
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+FATAL: unable to connect to MySQL server on host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com', port 3306, aborting...
+FATAL: error 2013: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com', port 3306, aborting...
+FATAL: error 2013: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com', port 3306, aborting...
+FATAL: error 2013: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com', port 3306, aborting...
+FATAL: error 2013: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+sysbench 1.0.15 (using bundled LuaJIT 2.1.0-beta2)
+
+Running the test with following options:
+Number of threads: 500
+Target transaction rate: 3700/sec
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+FATAL: unable to connect to MySQL server on host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com', port 3306, aborting...
+FATAL: error 2005: Unknown MySQL server host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com' (2)
+FATAL: unable to connect to MySQL server on host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com', port 3306, aborting...
+FATAL: error 2005: Unknown MySQL server host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com', port 3306, aborting...
+FATAL: error 2005: Unknown MySQL server host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com', port 3306, aborting...
+FATAL: error 2005: Unknown MySQL server host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com', port 3306, aborting...
+FATAL: error 2005: Unknown MySQL server host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com', port 3306, aborting...
+FATAL: error 2005: Unknown MySQL server host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com', port 3306, aborting...
+FATAL: error 2005: Unknown MySQL server host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com', port 3306, aborting...
+FATAL: error 2005: Unknown MySQL server host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com', port 3306, aborting...
+FATAL: error 2005: Unknown MySQL server host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com', port 3306, aborting...
+FATAL: error 2005: Unknown MySQL server host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com', port 3306, aborting...
+FATAL: error 2005: Unknown MySQL server host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com', port 3306, aborting...
+FATAL: error 2005: Unknown MySQL server host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com', port 3306, aborting...
+FATAL: error 2005: Unknown MySQL server host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com', port 3306, aborting...
+FATAL: error 2005: Unknown MySQL server host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com', port 3306, aborting...
+FATAL: error 2005: Unknown MySQL server host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com', port 3306, aborting...
+FATAL: error 2005: Unknown MySQL server host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com', port 3306, aborting...
+FATAL: error 2005: Unknown MySQL server host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com', port 3306, aborting...
+FATAL: error 2005: Unknown MySQL server host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com', port 3306, aborting...
+FATAL: error 2005: Unknown MySQL server host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com', port 3306, aborting...
+FATAL: error 2005: Unknown MySQL server host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com', port 3306, aborting...
+FATAL: error 2005: Unknown MySQL server host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com', port 3306, aborting...
+FATAL: error 2005: Unknown MySQL server host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+sysbench 1.0.15 (using bundled LuaJIT 2.1.0-beta2)
+
+Running the test with following options:
+Number of threads: 500
+Target transaction rate: 3700/sec
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+FATAL: unable to connect to MySQL server on host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com', port 3306, aborting...
+FATAL: error 2005: Unknown MySQL server host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com' (2)
+FATAL: unable to connect to MySQL server on host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com', port 3306, aborting...
+FATAL: error 2005: Unknown MySQL server host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com' (2)
+FATAL: unable to connect to MySQL server on host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com', port 3306, aborting...
+FATAL: error 2005: Unknown MySQL server host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com' (2)
+FATAL: unable to connect to MySQL server on host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com', port 3306, aborting...
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+(last message repeated 1 times)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+(last message repeated 2 times)
+FATAL: unable to connect to MySQL server on host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com', port 3306, aborting...
+FATAL: error 2005: Unknown MySQL server host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com', port 3306, aborting...
+FATAL: error 2005: Unknown MySQL server host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com', port 3306, aborting...
+FATAL: error 2005: Unknown MySQL server host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com', port 3306, aborting...
+FATAL: error 2005: Unknown MySQL server host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com', port 3306, aborting...
+FATAL: error 2005: Unknown MySQL server host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com', port 3306, aborting...
+FATAL: error 2005: Unknown MySQL server host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com', port 3306, aborting...
+FATAL: error 2005: Unknown MySQL server host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com', port 3306, aborting...
+FATAL: error 2005: Unknown MySQL server host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com', port 3306, aborting...
+FATAL: error 2005: Unknown MySQL server host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com', port 3306, aborting...
+FATAL: error 2005: Unknown MySQL server host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com', port 3306, aborting...
+FATAL: error 2005: Unknown MySQL server host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com', port 3306, aborting...
+FATAL: error 2005: Unknown MySQL server host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com', port 3306, aborting...
+FATAL: error 2005: Unknown MySQL server host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com', port 3306, aborting...
+FATAL: error 2005: Unknown MySQL server host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com', port 3306, aborting...
+FATAL: error 2005: Unknown MySQL server host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com', port 3306, aborting...
+FATAL: error 2005: Unknown MySQL server host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com', port 3306, aborting...
+FATAL: error 2005: Unknown MySQL server host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com', port 3306, aborting...
+FATAL: error 2005: Unknown MySQL server host 'cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed

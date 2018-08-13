@@ -1,0 +1,1 @@
+./tpcc.lua --mysql-host=cl2.cluster-cdy17lilqrl7.us-east-1.rds.amazonaws.com --mysql-user=sbtest --mysql-password=sbtestsbtest --mysql-db=sbtest --time=3600 --threads=25 --report-interval=1 --tables=10 --scale=100 --use_fk=0 --mysql_table_options="COLLATE latin1_bin" --trx_level=RC prepare
